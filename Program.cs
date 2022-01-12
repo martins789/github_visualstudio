@@ -11,6 +11,7 @@ namespace github_visualstudio
         static void Main(string[] args)
         {
             Console.WriteLine("sveiks no martina\n");
+            Console.WriteLine("sveiks no Stala\n");
         }
     }
 }
